@@ -6,7 +6,7 @@
 
 ## Core Concept
 
-Dragonborne may receive **3 out of 5 unique abilities** from a single god. They **cannot worship multiple gods**, and their **kingdom allegiance is locked** to their chosen deity. The fate of each kingdom rests in the hands of its Dragonborne champions — and in the legacy of the gods they serve.
+Dragonborne may receive **4 out of 5 unique abilities** from a single god. They **cannot worship multiple gods**, and their **kingdom allegiance is locked** to their chosen deity. The fate of each kingdom rests in the hands of its Dragonborne champions — and in the legacy of the gods they serve.
 
 ### The Three Great Dragons & Their Kingdoms
 
